@@ -1,0 +1,1 @@
+node render-one-page.mjs $1

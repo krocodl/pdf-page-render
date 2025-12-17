@@ -1,0 +1,1 @@
+qpdf --empty --pages pdf/*.pdf -- $1
